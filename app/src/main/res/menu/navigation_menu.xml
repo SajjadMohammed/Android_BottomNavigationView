@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/contactsItem"
+        android:title="Contacts"
+        android:icon="@drawable/ic_contacts_black_24dp"/>
+
+    <item android:id="@+id/favouritesItem"
+        android:title="Favourites"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+
+    <item android:id="@+id/missedCallsItem"
+        android:title="Missed Calls"
+        android:icon="@drawable/ic_phone_missed_black_24dp"/>
+
+</menu>
